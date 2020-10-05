@@ -3,11 +3,11 @@
 Všeobecné pokyny
 * Všetky odovzdávané stránky musia byť validné. Validitu vytvorených dokumentov si skontrolujte pomocou validátora.
 * Zadania by mali byť optimalizované pre posledné verzie Google Chrome a Firefox.
-Zadania sa odovzdávajú vždy do polnoci dňa, ktorý predchádza cvičeniu.
-Neskoré odovzdanie zadania sa trestá znížením počtu bodov.
-Zadania odovzdajte spakované vo formáte ZIP, pričom názov zozipovaného súboru bude v tvare Zx_yyyyy, kde x označuje poradové číslo zadania a yyyyy priezvisko študenta malými písmenami a bez diakritiky. Vo vnútri zipu bude mať súbor, ktorý má byť spustený ako prvý, názov index.html.
-Pri odovzdávaní do Google Classroom uveďte do poznámky adresu umiestnenia Vašej stránky na školskom serveri.
-V prípade zistenia plagiátorstva je treba počítať s následkami.
+* Zadania sa odovzdávajú vždy do polnoci dňa, ktorý predchádza cvičeniu.
+* Neskoré odovzdanie zadania sa trestá znížením počtu bodov.
+* Zadania odovzdajte spakované vo formáte ZIP, pričom názov zozipovaného súboru bude v tvare Zx_yyyyy, kde x označuje poradové číslo zadania a yyyyy priezvisko študenta malými písmenami a bez diakritiky. Vo vnútri zipu bude mať súbor, ktorý má byť spustený ako prvý, názov index.html.
+* Pri odovzdávaní do Google Classroom uveďte do poznámky adresu umiestnenia Vašej stránky na školskom serveri.
+* V prípade zistenia plagiátorstva je treba počítať s následkami.
 
 Zadanie cvičenia:
 Vytvorte si osobnú web stránku. Je potrebné, aby zadanie spĺňalo nasledovné požiadavky:
