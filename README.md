@@ -1,8 +1,8 @@
 # webtech1_zadanie1
 
 Všeobecné pokyny
-Všetky odovzdávané stránky musia byť validné. Validitu vytvorených dokumentov si skontrolujte pomocou validátora.
-Zadania by mali byť optimalizované pre posledné verzie Google Chrome a Firefox.
+* Všetky odovzdávané stránky musia byť validné. Validitu vytvorených dokumentov si skontrolujte pomocou validátora.
+* Zadania by mali byť optimalizované pre posledné verzie Google Chrome a Firefox.
 Zadania sa odovzdávajú vždy do polnoci dňa, ktorý predchádza cvičeniu.
 Neskoré odovzdanie zadania sa trestá znížením počtu bodov.
 Zadania odovzdajte spakované vo formáte ZIP, pričom názov zozipovaného súboru bude v tvare Zx_yyyyy, kde x označuje poradové číslo zadania a yyyyy priezvisko študenta malými písmenami a bez diakritiky. Vo vnútri zipu bude mať súbor, ktorý má byť spustený ako prvý, názov index.html.
