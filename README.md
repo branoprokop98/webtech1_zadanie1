@@ -9,10 +9,11 @@ Všeobecné pokyny
 * Pri odovzdávaní do Google Classroom uveďte do poznámky adresu umiestnenia Vašej stránky na školskom serveri.
 * V prípade zistenia plagiátorstva je treba počítať s následkami.
 
-Zadanie cvičenia:
+**Zadanie cvičenia:**
+
 Vytvorte si osobnú web stránku. Je potrebné, aby zadanie spĺňalo nasledovné požiadavky:
-Dokument zostavte podľa odporúčaní HTML 5 (nesmie chýbať DOCTYPE).
-Stránku validujte podľa HTML5 a CSS3. Pokiaľ pri tvorbe CSS chcete použiť vlastnosti, ktoré ešte nie sú štandardizované, t.j. využívajú predpony výrobcu prehliadačov (vendor prefix) je to možné. Takéto pravidlá nemusia byť validné. Všetky ostatné však áno.
+1. Dokument zostavte podľa odporúčaní HTML 5 (nesmie chýbať DOCTYPE).
+2. Stránku validujte podľa HTML5 a CSS3. Pokiaľ pri tvorbe CSS chcete použiť vlastnosti, ktoré ešte nie sú štandardizované, t.j. využívajú predpony výrobcu prehliadačov (vendor prefix) je to možné. Takéto pravidlá nemusia byť validné. Všetky ostatné však áno.
 Celá osobná web stránka sa bude skladať z 3 podstránok - "O mne", "Životopis", "Môj rozvrh". Bude napísaná v slovenskom jazyku a s použitím diakritiky.
 Používajte len značky s atribútami, ktoré povoľuje HTML 5. Pri definovaní štruktúry stránky maximálne využili sémantické značky, ktoré so sebou prináša HTML5 (header, footer, nav, section, article, address, ...). Príklad štruktúry stránky bez formátovania môžete vidieť na obrázkoch pod zadaním.Podľa potreby doplňte do štruktúry stránok identifikátory a triedy. Rozlišujte medzi nimi a používajte ich správne.
 Každá podstránka bude obsahovať nadpisy dvoch úrovní.
