@@ -1,0 +1,46 @@
+.ul-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6b6b6b;
+    /*#6b6b6b*/
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.li-menu {
+    display: inline-block;
+    width: 15%;
+    font-size: large;
+  }
+
+li{
+  text-align: left;
+}
+
+li a:hover {
+  background-color:  #111111;
+  border-radius: 50px;
+}
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+
+
+ h1{
+    width:100%;
+    text-align:center;
+  }
+
+.list-none{
+  list-style-type: none;
+}
+

@@ -1,0 +1,65 @@
+table, th, td {
+  border: 2px solid black;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+.table-cv{
+  vertical-align: top;
+}
+
+.table-cv-left{
+  vertical-align: top;
+  background-color: rgba(104, 104, 104, 0.904);
+  /*rgba(224, 255, 152, 0.712)*/
+  width: 10%; 
+  height : 600px ;
+}
+
+.table-cv-right{
+  vertical-align: top;
+  background-color: rgba(31, 31, 31, 0.774);
+  /*rgba(201, 253, 158, 0.425);*/
+  width:50%; 
+  height : 600px;
+}
+
+
+table{
+  margin: 1% 10% 1% 10%;
+}
+
+th{
+  width: 100px;
+  height: 50px;
+}
+.prednaska{
+  background-color: rgba(123, 206, 0, 0.534);
+}
+
+.cvicenie{
+  background-color: rgba(110, 226, 255, 0.699);
+}
+
+.volno{
+  background-color: rgba(207, 207, 207, 0.589);
+}
+
+.telesna{
+  background-color: rgb(146, 17, 0);
+}
+
+.legenda{
+  table-layout: fixed;
+  width: 25%;
+  height: 50px;
+}
+
+
+.table-size{
+  width: 950px;
+}
+
+tr th{
+  background-color: rgba(148, 148, 148, 0.589);
+}
