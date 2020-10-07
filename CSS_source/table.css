@@ -11,7 +11,6 @@ table, th, td {
 .table-cv-left{
   vertical-align: top;
   background-color: rgba(104, 104, 104, 0.904);
-  /*rgba(224, 255, 152, 0.712)*/
   width: 10%; 
   height : 600px ;
 }
@@ -19,7 +18,6 @@ table, th, td {
 .table-cv-right{
   vertical-align: top;
   background-color: rgba(31, 31, 31, 0.774);
-  /*rgba(201, 253, 158, 0.425);*/
   width:50%; 
   height : 600px;
 }
